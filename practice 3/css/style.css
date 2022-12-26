@@ -1,0 +1,26 @@
+.conteyner{
+    text-align: center;
+}
+.shapka{
+    text-align: center;
+}
+body{
+    background-color: gold;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+h2{
+    color: blue;
+    text-align: center;
+}
+.lorem{
+    color: red;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    background-color: blue;
+    border-radius: 20px;
+}

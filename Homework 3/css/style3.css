@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-color: #ddd;
+}
+div{
+    background-color: black;
+}
+.sah{
+    color: white;
+}
+.net{
+    
+    display: flex;
+    list-style: none;
+}
+.insta{
+    width: 20px;
+    height: 20px;
+}
+.face{
+    width: 20px;
+    height: 20px;
+}
+.yutub{
+    width: 20px;
+    height: 20px;
+}
+.tele{
+    width: 20px;
+    height: 20px;
+}
+div{
+    padding-bottom: 30px;
+    text-align: center;
+}
+.tarmoq{
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+nav{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-size:  25px; 
+}

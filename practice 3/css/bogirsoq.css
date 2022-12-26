@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: darkgreen;
+    text-align: center;
+}
+img{
+    width: 400px;
+    height: 300px;
+    
+}
+button{
+    text-align: center;
+    background-color: blue;
+    border-radius: 20px;
+}

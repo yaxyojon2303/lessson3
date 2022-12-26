@@ -1,0 +1,58 @@
+nav{
+    list-style: none;
+    display: flex;
+    font-size: 25px;
+    
+}
+body{
+    text-align: center;
+    background-color: #ddd;
+}
+img{
+    width: 800px;
+    height: 300px;
+    border-radius: 30px;
+}
+ol{
+    list-style: none;
+    font-size: 20px;
+}
+div{
+    background-color: black;
+}
+.sah{
+    color: white;
+}
+.net{
+    
+    display: flex;
+    list-style: none;
+}
+.insta{
+    width: 20px;
+    height: 20px;
+}
+.face{
+    width: 20px;
+    height: 20px;
+}
+.yutub{
+    width: 20px;
+    height: 20px;
+}
+.tele{
+    width: 20px;
+    height: 20px;
+}
+div{
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+
+nav{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-size:  25px; 
+}
